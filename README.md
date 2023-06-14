@@ -39,6 +39,48 @@ The model building process involves several steps, including:
 
 ## Model Prototype & Results
 
+"Natural Child"
+As shown in the following Short Video, if the picture represents a normal case, our model can predict a natural child’s emotion and the appropriate recommendations for his/her parents.
+https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/136590920/96a6d948-77e8-4c8d-8b0d-a3f37407c392
+
+"Angry Child"
+As shown in the following Short Video, if the picture represents an abnormal case, our model can predict an angry child’s emotion and the appropriate advice for his/her parents.
+
+
+"Frightened Child"
+As shown in the following Short Video, if the picture represents an abnormal case, our model can predict a fear child’s class and the appropriate recommendations for his/her parents.
+
+
+https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/136590920/583663e0-d2a9-41c7-8417-e3f6524d41b0
+
+
+
+"Cheerful Child"
+As illustrated in the following Video, if the picture represents an abnormal case, our model can predict a joy child’s class and the appropriate advice for his/her parents.
+
+
+https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/136590920/f1531893-7854-4080-8d7b-c0fec6e6d33a
+
+
+
+"Sadness Child"
+As illustrated in the following Video, if the picture represents irregular case, our model can predict a sad child’s emotion and the appropriate recommendations for his/her parents.
+
+
+https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/136590920/1a59599b-e4be-4531-b312-d210cf881f5f
+
+
+
+"Surprised Child"
+As illustrated in the following Video, if we have an abnormal case, our model can predict a surprised child’s emotion and the appropriate advice for his/her parents.
+
+
+https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/136590920/4b50e45d-1018-4084-9ab7-ed96b787f75a
+
+
+
+
+
 ![image](https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/136590920/9388ae84-3f75-4ef0-9f7f-f57506363f10)
 ![image](https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/136590920/8d2d6b4c-b850-4cb6-880b-3c9d3e0de989)
 
