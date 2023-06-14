@@ -1,11 +1,15 @@
 # Sentiment Analysis for Autistic Children
-## Problem description 
+## Problem Description 
 Autistic people are members of our society who need support and care. Having an accurate sentiments analysis of such people helps us to improve their support and understanding, and to create a society that works for autistic people. Autistic people often have attention deficit hyperactivity disorder (ADHD), dyslexia, anxiety, depression, and epilepsy. This means they may find it hard to look after themselves and need help with daily life. Autism is not a medical condition with treatments or a "cure". But some people need support to help them with certain things.
 However, learning about children's sentiments with autism poses a particular challenge facing the caregiver (such as parents, teachers, nurses, etc…). In fact, they usually have difficulty interpreting their certain facial expressions, emotions, or tone of voice. This hinders their social interactions and the development of their language and behavioral skills. Therefore, in this work we seek to address the following question: How people shall behave with the autistic people to they not feel socially discomfortable?
-## Proposed solution
+## Proposed Solution
 Our proposed solution consists of proposing a system named “Society for Autistic People”. Anyone who has social interaction with a child with autism can use our system to upload a photo and/or video of the child with autism to learn about their feelings. This technology has the potential to change how we examine and monitor the development of children to develop their skills and understand their feelings with People who have social interactions with autistic people.
-## Project objectives
+## Project Objectives
 This project enables medical practitioners, parents, nurses, teachers, etc… to upload the facial images of the autistic children to have a quick diagnosis of their feelings/sentiments. In addition, our system presents for them some recommendations and advice to more understand autistic people and interact with them.
+
+## Methodology
+![image](https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/136590920/9a8537b6-d779-4c02-b040-ecd4b4d1b18c)
+Use Case Diagram 
 ## Used Dataset Description
 This project uses an open dataset, which contains 830 images for autistic-children with different emotions. This dataset makes use of a collection of emotion-specific, cleaned photos of autistic kids and the duplicated images and the stock images have been removed. Then, dataset has been categorized into six facial emotions: anger, fear, joy, natural, sadness, and surprise. The six primary emotions used are shown in Figure below
 
@@ -16,7 +20,11 @@ This project used 758 images for training (Anger: 67, Fear: 30, Joy: 350, Natura
 ## Data Preparation
 In this work, we have used Python programming language because it is the most popular programming language for data science and machine learning.
 
+
 ## Conclusion
 In this work, we first defined the problem, the objectives, and the proposed solution after explaining the background. Next, we reviewed some existing works of literature similar to ours. Then, we analyzed our proposal and identified the functional and non-functional requirements and classified the end-users. After that, we designed the functions of our system through some UML diagrams. Next, we prepared data by resampling, splitting, scaling, and reducing its dimensionality by using a set of machine learning algorithms. We adopted then linear regression, SVM, random forest, and stacking classifier. After, we built our machine learning model used to make predictions. Finally, we evaluate our model by downloading some pictures representing normal and abnormal cases in predicting the different children’s emotions and presenting the appropriate recommendations for their parents.
 In the future, we plan to develop our site and share it in order to achieve widespread use of different search engines. Furthermore, we hope to provide a highly accurate sentiment analysis results for autistic children.
+
+## Dataset Source 
+From Kaggle Autistic Children Emotions - Dr. Fatma M. Talaat. (2023, February 16). Kaggle.
  
