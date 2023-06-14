@@ -38,12 +38,13 @@ The model building process involves several steps, including:
 ![image](https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/136590920/3d015930-cff7-485e-806d-cdc5ac5f28f9)
 
 ## Model Prototype & Results
-![image](https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/136590920/ac39e163-960c-4f81-b64a-e42cb9263151)
+
 ![image](https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/136590920/9388ae84-3f75-4ef0-9f7f-f57506363f10)
 ![image](https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/136590920/8d2d6b4c-b850-4cb6-880b-3c9d3e0de989)
 
 ## Model Performance Evaluation
-
+The percentage of correct predictions is (precision) 93%.
+The model(f1- score) is 87% accurate.
 
 
 ## Conclusion
