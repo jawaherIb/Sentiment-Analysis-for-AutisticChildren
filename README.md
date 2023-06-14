@@ -12,3 +12,11 @@ This project uses an open dataset, which contains 830 images for autistic-childr
 ![The six primary used emotions](https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/136590920/86320784-d4f9-4605-95fb-16160c9ba760)
 
 This project used 758 images for training (Anger: 67, Fear: 30, Joy: 350, Natural: 48, Sadness: 200, Surprise: 63) and 72 images for testing (Anger: 3, Fear: 3, Joy: 42, Natural: 7, Sadness: 14, Surprise: 6).
+
+## Data Preparation
+In this work, we have used Python programming language because it is the most popular programming language for data science and machine learning.
+
+## Conclusion
+In this work, we first defined the problem, the objectives, and the proposed solution after explaining the background. Next, we reviewed some existing works of literature similar to ours. Then, we analyzed our proposal and identified the functional and non-functional requirements and classified the end-users. After that, we designed the functions of our system through some UML diagrams. Next, we prepared data by resampling, splitting, scaling, and reducing its dimensionality by using a set of machine learning algorithms. We adopted then linear regression, SVM, random forest, and stacking classifier. After, we built our machine learning model used to make predictions. Finally, we evaluate our model by downloading some pictures representing normal and abnormal cases in predicting the different children’s emotions and presenting the appropriate recommendations for their parents.
+In the future, we plan to develop our site and share it in order to achieve widespread use of different search engines. Furthermore, we hope to provide a highly accurate sentiment analysis results for autistic children.
+ 
