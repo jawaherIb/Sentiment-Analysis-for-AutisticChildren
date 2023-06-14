@@ -9,6 +9,7 @@ This project enables medical practitioners, parents, nurses, teachers, etc… to
 
 ## Methodology
 ![image](https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/136590920/9a8537b6-d779-4c02-b040-ecd4b4d1b18c)
+
 Use Case Diagram 
 ## Used Dataset Description
 This project uses an open dataset, which contains 830 images for autistic-children with different emotions. This dataset makes use of a collection of emotion-specific, cleaned photos of autistic kids and the duplicated images and the stock images have been removed. Then, dataset has been categorized into six facial emotions: anger, fear, joy, natural, sadness, and surprise. The six primary emotions used are shown in Figure below
@@ -19,6 +20,27 @@ This project used 758 images for training (Anger: 67, Fear: 30, Joy: 350, Natura
 
 ## Data Preparation
 In this work, we have used Python programming language because it is the most popular programming language for data science and machine learning.
+
+## Model Building Phases
+The model building process involves several steps, including:
+
+1. Resampling
+2. Data Splitting (Train and Test)
+3. Data Scaling and Dimensionality Reduction
+4. Logistic Regression
+5. Support Vector Machines
+6. Random Forest
+7. Stacking Classifiers
+8. Model Building
+9. Recommendation Making
+
+## System Prediction Cycle
+![image](https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/136590920/3d015930-cff7-485e-806d-cdc5ac5f28f9)
+
+## Model Prototype & Results
+![image](https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/136590920/ac39e163-960c-4f81-b64a-e42cb9263151)
+![image](https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/136590920/a45bd2f0-75ce-46f6-8edb-1799db286274)
+
 
 
 ## Conclusion
