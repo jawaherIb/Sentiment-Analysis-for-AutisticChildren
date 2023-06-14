@@ -40,14 +40,25 @@ The model building process involves several steps, including:
 ## Model Prototype & Results
 
 "Natural Child"
+
 As shown in the following Short Video, if the picture represents a normal case, our model can predict a natural child’s emotion and the appropriate recommendations for his/her parents.
-https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/136590920/96a6d948-77e8-4c8d-8b0d-a3f37407c392
+
+
+https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/136590920/33b752e7-8da7-4c87-87dc-9bcf7a805030
+
+
 
 "Angry Child"
+
 As shown in the following Short Video, if the picture represents an abnormal case, our model can predict an angry child’s emotion and the appropriate advice for his/her parents.
 
 
+https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/136590920/631d0a27-07c8-46f8-b750-9294b6c91e82
+
+
+
 "Frightened Child"
+
 As shown in the following Short Video, if the picture represents an abnormal case, our model can predict a fear child’s class and the appropriate recommendations for his/her parents.
 
 
@@ -56,6 +67,7 @@ https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/1365
 
 
 "Cheerful Child"
+
 As illustrated in the following Video, if the picture represents an abnormal case, our model can predict a joy child’s class and the appropriate advice for his/her parents.
 
 
@@ -64,6 +76,7 @@ https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/1365
 
 
 "Sadness Child"
+
 As illustrated in the following Video, if the picture represents irregular case, our model can predict a sad child’s emotion and the appropriate recommendations for his/her parents.
 
 
@@ -72,6 +85,7 @@ https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/1365
 
 
 "Surprised Child"
+
 As illustrated in the following Video, if we have an abnormal case, our model can predict a surprised child’s emotion and the appropriate advice for his/her parents.
 
 
