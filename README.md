@@ -9,8 +9,7 @@ This project enables medical practitioners, parents, nurses, teachers, etc… to
 
 ## Methodology
 ![image](https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/136590920/9a8537b6-d779-4c02-b040-ecd4b4d1b18c)
-
-                                    Use Case Diagram 
+                                                  Use Case Diagram 
 ## Used Dataset Description
 This project uses an open dataset, which contains 830 images for autistic-children with different emotions. This dataset makes use of a collection of emotion-specific, cleaned photos of autistic kids and the duplicated images and the stock images have been removed. Then, dataset has been categorized into six facial emotions: anger, fear, joy, natural, sadness, and surprise. The six primary emotions used are shown in Figure below
 
