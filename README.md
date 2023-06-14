@@ -44,6 +44,7 @@ The model building process involves several steps, including:
 
 ## Model Performance Evaluation
 The percentage of correct predictions is (precision) 93%.
+
 The model(f1- score) is 87% accurate.
 
 
