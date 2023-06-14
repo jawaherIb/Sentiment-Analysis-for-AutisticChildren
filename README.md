@@ -8,5 +8,7 @@ Our proposed solution consists of proposing a system named “Society for Autist
 This project enables medical practitioners, parents, nurses, teachers, etc… to upload the facial images of the autistic children to have a quick diagnosis of their feelings/sentiments. In addition, our system presents for them some recommendations and advice to more understand autistic people and interact with them.
 ## Used Dataset Description
 This project uses an open dataset, which contains 830 images for autistic-children with different emotions. This dataset makes use of a collection of emotion-specific, cleaned photos of autistic kids and the duplicated images and the stock images have been removed. Then, dataset has been categorized into six facial emotions: anger, fear, joy, natural, sadness, and surprise. The six primary emotions used are shown in Figure below
+
 ![The six primary used emotions](https://github.com/jawaherIb/Sentiment-Analysis-for-AutisticChildren/assets/136590920/86320784-d4f9-4605-95fb-16160c9ba760)
+
 This project used 758 images for training (Anger: 67, Fear: 30, Joy: 350, Natural: 48, Sadness: 200, Surprise: 63) and 72 images for testing (Anger: 3, Fear: 3, Joy: 42, Natural: 7, Sadness: 14, Surprise: 6).
